@@ -3,6 +3,6 @@ Estes testes automatizados representam o trabalho realizado por mim na fabrica d
 
 Sequência de realização dos testes:
 
-1-Cadastrar;
-2-Editar;
-3-Deletar.
+1. Cadastrar;
+2. Editar;
+3. Deletar.
