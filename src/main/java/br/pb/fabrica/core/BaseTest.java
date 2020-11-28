@@ -15,9 +15,10 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 
 import br.pb.fabrica.pages.LoginPage;
+
 /*
- *  Analista de Testes: Thiago dos Anjos
- *  Data: 15/10/2020
+ *  Analista de Testes: Thiago dos Anjos Bezerra
+ *  Data: 28/11/2020
  *  
  */
 

@@ -7,6 +7,12 @@ import org.junit.runners.MethodSorters;
 import br.pb.fabrica.core.BaseTest;
 import br.pb.fabrica.pages.CursoPage;
 
+/*
+ *  Analista de Testes: Thiago dos Anjos Bezerra
+ *  Data: 28/11/2020
+ *  
+ */
+
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 public class EditarCurso extends BaseTest {
 	CursoPage curso = new CursoPage();	

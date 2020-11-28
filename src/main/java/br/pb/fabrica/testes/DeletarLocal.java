@@ -8,6 +8,12 @@ import org.junit.runners.MethodSorters;
 import br.pb.fabrica.core.BaseTest;
 import br.pb.fabrica.pages.LocalPage;
 
+/*
+ *  Analista de Testes: Thiago dos Anjos Bezerra
+ *  Data: 28/11/2020
+ *  
+ */
+
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 public class DeletarLocal extends BaseTest {
 	LocalPage local = new LocalPage();

@@ -1,17 +1,14 @@
 package br.pb.fabrica.pages;
-
-
-
 import org.openqa.selenium.By;
-
-
 import br.pb.fabrica.core.BasePage;
 import br.pb.fabrica.core.DriverFactory;
+
 /*
- *  Analista de Testes: Pedro Carvalho 
- *  Data: 13/10/2020
+ *  Analista de Testes: Thiago dos Anjos Bezerra
+ *  Data: 28/11/2020
  *  
  */
+
 public class LoginPage extends BasePage {
 
 	public void AcessarTelaInicial() {

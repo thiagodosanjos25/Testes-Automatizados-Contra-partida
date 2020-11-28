@@ -6,6 +6,12 @@ import br.pb.fabrica.core.BasePage;
 import br.pb.fabrica.enums.CursoEnum;
 import br.pb.fabrica.enums.DisciplinaEnum;
 
+/*
+ *  Analista de Testes: Thiago dos Anjos Bezerra
+ *  Data: 28/11/2020
+ *  
+ */
+
 public class CriarPreceptorPage extends BasePage {
 	
 	public void setNomePreceptor (String nomePreceptor) {

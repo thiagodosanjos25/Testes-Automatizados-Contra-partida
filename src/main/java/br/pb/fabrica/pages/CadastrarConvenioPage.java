@@ -3,9 +3,13 @@ package br.pb.fabrica.pages;
 import br.pb.fabrica.core.BasePage;
 import org.openqa.selenium.By;
 
-public class CadastrarConvenioPage extends BasePage {
+/*
+ *  Analista de Testes: Thiago dos Anjos Bezerra
+ *  Data: 28/11/2020
+ *  
+ */
 
-    /* Formulario */
+public class CadastrarConvenioPage extends BasePage {
 
     public void setConcedente(String tipo){
         selecionarCombo(By.id("id_concedente"), tipo);

@@ -10,6 +10,12 @@ import org.openqa.selenium.WebElement;
 import br.pb.fabrica.core.BasePage;
 import br.pb.fabrica.core.DriverFactory;
 
+/*
+ *  Analista de Testes: Thiago dos Anjos Bezerra
+ *  Data: 28/11/2020
+ *  
+ */
+
 public class CursoPage extends BasePage {
 		
 		

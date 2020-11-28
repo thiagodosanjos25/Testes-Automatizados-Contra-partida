@@ -6,11 +6,13 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class DriverFactory {
+	
 /*
- *  Analista de Testes: Pedro Carvalho 
- *  Data: 13/10/2020
+ *  Analista de Testes: Thiago dos Anjos Bezerra
+ *  Data: 28/11/2020
  *  
  */
+	
 private static WebDriver driver;
 	
 	private DriverFactory() {}

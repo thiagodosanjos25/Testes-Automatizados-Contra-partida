@@ -1,10 +1,14 @@
 package br.pb.fabrica.pages;
-
 import org.openqa.selenium.By;
-
 import br.pb.fabrica.core.BasePage;
 import br.pb.fabrica.enums.CursoEnum;
 import br.pb.fabrica.enums.TurnoEnum;
+
+/*
+ *  Analista de Testes: Thiago dos Anjos Bezerra
+ *  Data: 28/11/2020
+ *  
+ */
 
 public class CriarDisciplinaPage extends BasePage {
 	
